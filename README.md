@@ -1,15 +1,14 @@
-[# RandomPetGenerator
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: Afaq Waris
 
-Time spent: 6 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Summary
 
-Random Pet Generatore is an android app that displays randome pictures of dogs
+RandomPetGenerator is an android app that An app that displays a scrollable list of characters from the Pokemon API
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -19,35 +18,36 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ x] Make an API call to an API of your choice using AsyncHTTPClient
-- [ x] Display at least three (3) pieces of data for each API entry retrieved
-- [ x] A working Button requests a new API entry and updates the data displayed
+- [ ] App contains a RecyclerView that displays a list of scrollable data
+- [ ] App displays at least two (2) pieces of data for each RecyclerView item
+- [ ] Use a downloadable font with custom color and size
+- [ x] Modify the theme of the app in `themes.xml`
+- [x ] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ x] Update the night theme to use different versions of styles when in dark mode
+- [x ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
 - [x ] List anything else that you added to improve the app!
-Made the background black and added a portal in the beggining 
-## API Choice
-
-My chosen API for this project is [[**enter here**.](https://dog.ceo/api/breeds/list/all)](https://pokeapi.co/api/v2/pokemon/ditto)
+- Added a portal to the beginning
 
 ## Video Demo
 
-![Project5PokemonAPI](https://github.com/Afaq136/RandomPetGenerator/assets/93162900/ccec7d7b-59da-48aa-8eb7-929f84de865d)
-
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+![Project5PokemonAPI](https://github.com/Afaq136/RandomPetGenerator/assets/93162900/bacac9aa-bb1b-4dde-b991-dd8a3a96e834)
 
-https://ezgif.com/
+GIF created with [**your chosen GIF tool**](https://ezgif.com/video-to-gif)
+
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
+
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
