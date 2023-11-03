@@ -35,10 +35,11 @@ The following EXTRA features are implemented:
 Made the background black and added a portal in the beggining 
 ## API Choice
 
-My chosen API for this project is [**enter here**.](https://dog.ceo/api/breeds/list/all)
+My chosen API for this project is [[**enter here**.](https://dog.ceo/api/breeds/list/all)](https://pokeapi.co/api/v2/pokemon/ditto)
 
 ## Video Demo
-![Project5Gif](https://github.com/Afaq136/RandomPetGenerator/assets/93162900/f8619685-dd53-4c09-b810-7a095ebe6bcd)
+
+![Project5PokemonAPI](https://github.com/Afaq136/RandomPetGenerator/assets/93162900/ccec7d7b-59da-48aa-8eb7-929f84de865d)
 
 Here's a video / GIF that demos all of the app's implemented features:
 
